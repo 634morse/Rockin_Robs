@@ -15,3 +15,9 @@
 ### Step 3: Ensure new songs are in list
 - Go to the link on your facebook page and search for a newly added song to ensure it has been added
 - IF not reach out to Corey and he can take a look
+
+
+## Technical Documentation (For Corey)
+The powershell script grabs the csv song book generated in it's default location
+- karaoke_songs.ps1
+- 
